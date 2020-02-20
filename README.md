@@ -1,2 +1,0 @@
-# TypeNepali
-Created with CodeSandbox
